@@ -50,7 +50,7 @@ networkx==2.4;python_version>="3.0"
 packaging==20.4
 pluggy==0.13.1
 py==1.10.0
-pyasn1==0.4.8
+pyasn1==0.6.4
 pycparser==2.20
 pyparsing==2.2.2;python_version<"3.0"
 pyparsing==2.4.7;python_version>="3.0"
